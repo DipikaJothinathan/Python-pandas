@@ -5,6 +5,11 @@ Exploratory analyis using libraries **Polars** and **Plotly** to evaluate user e
 -> Identifying factors influencing conversions, such as language preference </br>
 -> Visualizing insights to improve marketing effectiveness </br>
 
+**Agriculture** </br>
+Build multi-class classification models: </br>
+-> Predict the type of crop </br>
+-> Identify the single most importance feature for predictive performance </br>
+
 **Gym Fitness** </br>
 Explore local and global fitness trends to identify product niches using **pandas** and **matplotlib**:</br>
 -> Examine data about online interest in home gyms, gym workouts, home workouts, and fitness products </br>
