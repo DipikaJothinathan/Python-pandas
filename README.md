@@ -5,11 +5,6 @@ Exploratory analyis using libraries **Polars** and **Plotly** to evaluate user e
 -> Identifying factors influencing conversions, such as language preference </br>
 -> Visualizing insights to improve marketing effectiveness </br>
 
-**Agriculture** </br>
-Build multi-class classification models using **sklearn**: </br>
--> Predict the type of crop </br>
--> Identify the single most importance feature for predictive performance </br>
-
 **Gym Fitness** </br>
 Explore local and global fitness trends to identify product niches using **pandas** and **matplotlib**:</br>
 -> Examine data about online interest in home gyms, gym workouts, home workouts, and fitness products </br>
@@ -38,3 +33,7 @@ Analyze anonymous sleep data to uncover insights into lifestyle factors affectin
 -> Identify occupations that have the lowest average sleep duration, lowest average sleep quality </br>
 -> Explore how BMI Category can affect sleep disorder rates </br>
 -> Find what ratio of app users in each BMI Category have been diagnosed with Insomnia </br>
+
+**Agriculture** </br>
+Build multi-class classification models using **sklearn**: </br>
+-> Find the feature in the dataset that produces the best score for predicting "crop" </br>
