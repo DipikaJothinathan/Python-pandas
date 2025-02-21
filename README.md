@@ -27,3 +27,9 @@ Data manipulation to explore different aspects of Lego's history using **pandas*
 
 **Netflix Movies** </br>
 Explore Netflix movie data and perform exploratory data analysis for a production company to uncover insights about movies from a particular decade </bn>
+
+**Good Sleep** </br>
+Analyze anonymous sleep data to uncover insights into lifestyle factors affecting sleep quality and duration </br>
+-> Identify occupations that have the lowest average sleep duration, lowest average sleep quality </br>
+-> Explore how BMI Category can affect sleep disorder rates </br>
+-> Find what ratio of app users in each BMI Category have been diagnosed with Insomnia </br>
