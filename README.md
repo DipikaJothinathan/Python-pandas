@@ -37,3 +37,11 @@ Analyze anonymous sleep data to uncover insights into lifestyle factors affectin
 **Agriculture** </br>
 Build multi-class classification models using **sklearn**: </br>
 -> Find the feature in the dataset that produces the best score for predicting crop </br>
+
+**TV Data** </br>
+Exploration, data cleanup and analysis for identifying: </br>
+-> What are the most extreme game outcomes?</br>
+-> How does the game affect television viewership?</br>
+-> How have viewership, TV ratings, and ad cost evolved over time?</br>
+-> Who are the most prolific musicians in terms of halftime show performances?</br>
+
