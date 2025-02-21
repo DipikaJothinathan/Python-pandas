@@ -5,6 +5,9 @@ Exploratory analyis using libraries **Polars** and **Plotly** to evaluate user e
 -> Identifying factors influencing conversions, such as language preference </br>
 -> Visualizing insights to improve marketing effectiveness </br>
 
+**Netflix Movies** </br>
+Explore Netflix movie data and perform exploratory data analysis for a production company to uncover insights about movies from a particular decade
+
 **NYC Public School**</br>
 Data manipulation and summary statistics using **pandas** to analyze test scores across New York City's public schools:</br>
 -> Identify the schools with top math results </br> 
