@@ -6,7 +6,7 @@ Exploratory analyis using libraries **Polars** and **Plotly** to evaluate user e
 -> Visualizing insights to improve marketing effectiveness </br>
 
 **Agriculture** </br>
-Build multi-class classification models: </br>
+Build multi-class classification models using **sklearn**: </br>
 -> Predict the type of crop </br>
 -> Identify the single most importance feature for predictive performance </br>
 
