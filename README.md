@@ -6,7 +6,7 @@ Exploratory analyis using libraries **Polars** and **Plotly** to evaluate user e
 -> Visualizing insights to improve marketing effectiveness </br>
 
 **Gym Fitness** </br>
-Explore local and global fitness trends to identify product niches:</br>
+Explore local and global fitness trends to identify product niches using **pandas** and **matplotlib**:</br>
 -> Examine data about online interest in home gyms, gym workouts, home workouts, and fitness products </br>
 -> Create visualizations to help guide product decisions
 
