@@ -11,7 +11,7 @@ Explore local and global fitness trends to identify product niches using **panda
 -> Create visualizations to help guide product decisions
 
 **Avocado Toast** </br>
-Data manipulation and analysis skills to investigate the ingredient supply for making avocado toast
+Data manipulation and analysis skills to investigate the ingredient supply for making avocado toast </br>
 -> Identify most common country of origin for each of the three key ingredients: avocados, olive oil, and sourdough
 
 **Netflix Movies** </br>
