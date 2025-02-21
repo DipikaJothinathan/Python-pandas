@@ -5,6 +5,11 @@ Exploratory analyis using libraries **Polars** and **Plotly** to evaluate user e
 -> Identifying factors influencing conversions, such as language preference </br>
 -> Visualizing insights to improve marketing effectiveness </br>
 
+**Gym Fitness** </br>
+Explore local and global fitness trends to identify product niches:</br>
+-> Examine data about online interest in home gyms, gym workouts, home workouts, and fitness products </br>
+-> Create visualizations to help guide product decisions
+
 **Netflix Movies** </br>
 Explore Netflix movie data and perform exploratory data analysis for a production company to uncover insights about movies from a particular decade
 
