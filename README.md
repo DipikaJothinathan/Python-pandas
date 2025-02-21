@@ -8,7 +8,7 @@ Exploratory analyis using libraries **Polars** and **Plotly** to evaluate user e
 **Gym Fitness** </br>
 Explore local and global fitness trends to identify product niches using **pandas** and **matplotlib**:</br>
 -> Examine data about online interest in home gyms, gym workouts, home workouts, and fitness products </br>
--> Create visualizations to help guide product decisions
+-> Create visualizations to help guide product decisions </br>
 
 **NYC Public School**</br>
 Data manipulation and summary statistics using **pandas** to analyze test scores across New York City's public schools:</br>
@@ -18,10 +18,12 @@ Data manipulation and summary statistics using **pandas** to analyze test scores
 
 **Avocado Toast** </br>
 Data manipulation and analysis skills to investigate the ingredient supply for making avocado toast </br>
--> Identify most common country of origin for each of the three key ingredients: avocados, olive oil, and sourdough
+-> Identify most common country of origin for each of the three key ingredients: avocados, olive oil, and sourdough </br>
 
 **Legos** </br>
-
+Data manipulation to explore different aspects of Lego's history using **pandas**: </br>
+-> Dig into the history of Lego's licensed sets </br>
+-> Uncovering the percentage of all licensed sets that are Star Wars themed </br>
 
 **Netflix Movies** </br>
-Explore Netflix movie data and perform exploratory data analysis for a production company to uncover insights about movies from a particular decade
+Explore Netflix movie data and perform exploratory data analysis for a production company to uncover insights about movies from a particular decade </bn>
